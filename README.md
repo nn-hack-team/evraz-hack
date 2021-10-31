@@ -12,4 +12,4 @@ In our submission we use a single CATBOOST tuned by GridSearchCV from Scikit-lea
 <img src='https://miro.medium.com/max/1200/1*iEO6b3roCesXxI0vkx9IPg.png'>
 
 On private LeaderBoard we finished on #14th place#.
-<img src='https://github.com/NN-team-01/evraz-hack/blob/main/Leaderboard/EVRAZ_NN_TEAM_14th.png?raw=true'>
+<img src='https://github.com/NN-team-01/evraz-hack/blob/main/data_processing/EVRAZ_NN_TEAM_14th.png?raw=true'>
